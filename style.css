@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: coral;
+}
+h1{
+    text-align: center;
+    background-color: chartreuse;
+}
+p{
+    background-color: hotpink;
+    color: blue;
+    font-size: xx-large;
+}
+pre{
+    background-color: tomato;
+    font-size: x-large;
+}
